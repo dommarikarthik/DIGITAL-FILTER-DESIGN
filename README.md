@@ -17,6 +17,9 @@ MENTOR: NEELA SANTHOSH KUMAR
 # WHAT IS DIGITAL FILTER DESIGN?
 
 Digital filter design using VLSI (Very Large Scale Integration) involves creating electronic circuits on a chip to process digital signals, often for applications like signal processing, audio, and image processing. VLSI allows for the creation of highly efficient and compact digital filters on integrated circuits. This process often involves designing and optimizing Finite Impulse Response (FIR) or Infinite Impulse Response (IIR) filters. 
+
+![Image](https://github.com/user-attachments/assets/e58c4bd8-7855-45e0-aeb5-d0ac3f04e9f6)
+
 # Key aspects of VLSI digital filter design:
 Filter Types:
 FIR filters are known for their stability and linear phase response, making them suitable for various applications. IIR filters, on the other hand, can achieve sharper frequency responses with fewer computations but may be less stable than FIR filters. 
@@ -46,3 +49,7 @@ Research has explored using multiple-valued logic (MVL) ROMs to implement RNS ar
 # VLSI implementation of 4-D depth selective IIR filters:
 This work focuses on processing 4-D light fields for video surveillance and other applications. 
 In summary, VLSI design for digital filters involves a combination of filter design principles, efficient hardware architectures, and optimization techniques to achieve high performance, low power consumption, and small silicon area.
+
+# OUTPUT :-
+
+![Image](https://github.com/user-attachments/assets/b456917d-9e73-43c9-b201-bbbe34844afc)
